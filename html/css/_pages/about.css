@@ -1,0 +1,20 @@
+.darr {
+	position: absolute;
+	right: 300px;
+	top: 500px;
+	font-size: 35px;
+}
+
+.gold {
+	background-color: #00ffe4;
+	padding: 150px 0;
+}
+
+.gold .container {
+	padding: 0px;
+}
+
+.gold .container h5 {
+	font-size: 50px;
+	margin-bottom: 25px;
+}
