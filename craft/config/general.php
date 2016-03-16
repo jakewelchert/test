@@ -26,4 +26,13 @@ return array(
       'baseUrl'  => 'http://104.236.165.201/',
     )
   )
+
+  // Use IP address of your droplet below
+  '104.236.138.15' => array(
+    'siteUrl' => 'http://104.236.138.15/',
+    'environmentVariables' => array(
+      'basePath' => '/var/www/html/',
+      'baseUrl'  => 'http://104.236.138.15/',
+    )
+  )
 );
