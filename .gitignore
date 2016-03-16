@@ -6,3 +6,6 @@ craft/app/
 craft/plugins/
 craft/storage/
 craft/config/db.php
+craft/config/___remote_test
+craft/config/__remote
+craft/config/_original
